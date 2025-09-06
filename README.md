@@ -31,7 +31,7 @@ The dataset contains 100k+ orders across multiple dimensions (orders, customers,
 
 * **SQL (PostgreSQL):** Data extraction, cleaning, and transformation.
 * **Excel:** PivotTables, slicers, and dashboard visualization.
-* **OneDrive:** Version control and auto-backups after struggling with file loss. [Access to my project here]([https://www.kaggle.com/datasets/sudhanshukumar50480/cleaned-brazilian-ecommerce-data](https://1drv.ms/x/c/2cb88e8d7640e7ce/ETfAO6uqa5xNumrYl6JaZE4BHM2Ch3KpOCNZrzeFNg-L5Q?e=oebDtH))
+* **OneDrive:** Version control and auto-backups after struggling with file loss. [Access to my project here](https://1drv.ms/x/c/2cb88e8d7640e7ce/ETfAO6uqa5xNumrYl6JaZE4BHM2Ch3KpOCNZrzeFNg-L5Q?e=oebDtH)
 * **Git & GitHub:** Sharing scripts, queries, and project documentation.
 
 ---
@@ -209,6 +209,6 @@ ORDER BY
 * São Paulo dominates revenue, showing the importance of urban regions.
 * Most buyers are **one-time customers**, meaning retention is a growth opportunity.
 
-✅ This project demonstrates my ability to move from **raw dataset → SQL analysis → interactive Excel dashboard** while overcoming technical and practical challenges.
+✅ This project demonstrates my ability to move from **raw dataset → SQL analysis → interactive Excel dashboard** while overcoming technical and practical challenges. [My Full Project](https://1drv.ms/x/c/2cb88e8d7640e7ce/ETfAO6uqa5xNumrYl6JaZE4BHM2Ch3KpOCNZrzeFNg-L5Q?e=oebDtH)
 
 ![alt text](brazillian_ecommerce/assets/DASHBOARD.png)
